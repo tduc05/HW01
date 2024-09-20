@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="color: lightseagreen;">Takura D.</h1>
+    <h2 style="color: green;">Computer Science</h2>
+    <p>IP: 130.64.64.33</p>
+    <p>Where I grew up: Francistown, Botswana (6yrs), New Hampshire (13yrs)</p>
+    
+    <img src="soccerfield.jpg" width="300" style="float: left; margin-right: 5px; margin-bottom: 5px;" />
+    <p>The soccer field is my favorite place because it's very peaceful and 
+    therapeutic. Playing soccer with my friends there brings me immense 
+    joy. I always have great experiences whenever I play.</p>
+
+    <div style="clear:both;"></div>
+
+    <p>Here is a link to my favorite restaurant: 
+    <a href="https://www.thecheesecakefactory.com/" target="_blank">
+                The Cheesecake Factory</a>.</p>
+            
+    <p> An unexpected thing about me is, I really like to draw and paint.  </p>
+    
+    </body>
+    </html>
+
+    
+</body>
+</html>
